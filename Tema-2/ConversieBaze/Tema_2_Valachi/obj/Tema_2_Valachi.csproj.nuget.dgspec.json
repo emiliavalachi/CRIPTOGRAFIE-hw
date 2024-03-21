@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Emilia\\Desktop\\CRIPTA\\Convertor\\Tema_2_Valachi\\Tema_2_Valachi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Emilia\\Desktop\\CRIPTA\\Convertor\\Tema_2_Valachi\\Tema_2_Valachi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emilia\\Desktop\\CRIPTA\\Convertor\\Tema_2_Valachi\\Tema_2_Valachi.csproj",
+        "projectName": "Tema_2_Valachi",
+        "projectPath": "C:\\Users\\Emilia\\Desktop\\CRIPTA\\Convertor\\Tema_2_Valachi\\Tema_2_Valachi.csproj",
+        "packagesPath": "C:\\Users\\Emilia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emilia\\Desktop\\CRIPTA\\Convertor\\Tema_2_Valachi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Emilia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
