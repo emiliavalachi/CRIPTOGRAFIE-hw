@@ -1,0 +1,14 @@
+C:\Users\Emilia\Desktop\TAP\FermatFact\FermatFact\bin\Debug\net8.0\FermatFact.exe
+C:\Users\Emilia\Desktop\TAP\FermatFact\FermatFact\bin\Debug\net8.0\FermatFact.deps.json
+C:\Users\Emilia\Desktop\TAP\FermatFact\FermatFact\bin\Debug\net8.0\FermatFact.runtimeconfig.json
+C:\Users\Emilia\Desktop\TAP\FermatFact\FermatFact\bin\Debug\net8.0\FermatFact.dll
+C:\Users\Emilia\Desktop\TAP\FermatFact\FermatFact\bin\Debug\net8.0\FermatFact.pdb
+C:\Users\Emilia\Desktop\TAP\FermatFact\FermatFact\obj\Debug\net8.0\FermatFact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilia\Desktop\TAP\FermatFact\FermatFact\obj\Debug\net8.0\FermatFact.AssemblyInfoInputs.cache
+C:\Users\Emilia\Desktop\TAP\FermatFact\FermatFact\obj\Debug\net8.0\FermatFact.AssemblyInfo.cs
+C:\Users\Emilia\Desktop\TAP\FermatFact\FermatFact\obj\Debug\net8.0\FermatFact.csproj.CoreCompileInputs.cache
+C:\Users\Emilia\Desktop\TAP\FermatFact\FermatFact\obj\Debug\net8.0\FermatFact.dll
+C:\Users\Emilia\Desktop\TAP\FermatFact\FermatFact\obj\Debug\net8.0\refint\FermatFact.dll
+C:\Users\Emilia\Desktop\TAP\FermatFact\FermatFact\obj\Debug\net8.0\FermatFact.pdb
+C:\Users\Emilia\Desktop\TAP\FermatFact\FermatFact\obj\Debug\net8.0\FermatFact.genruntimeconfig.cache
+C:\Users\Emilia\Desktop\TAP\FermatFact\FermatFact\obj\Debug\net8.0\ref\FermatFact.dll
